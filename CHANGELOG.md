@@ -22,6 +22,8 @@ Given a version number `MAJOR.MINOR.PATCH`, we increment the:
 
 ## Unreleased
 
+- Enable change detection for dotfiles. If you don't want the file to mark the stack as changed then add them to `.gitignore`.
+
 ## v0.5.1
 
 ### Added
